@@ -1,0 +1,43 @@
+{
+  "hash": "699baf31",
+  "configHash": "6ef1a137",
+  "lockfileHash": "02dc94e7",
+  "browserHash": "094c06a6",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "2fdeeca0",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "62f6a7f5",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "aa851c61",
+      "needsInterop": false
+    },
+    "ngx-bootstrap/carousel": {
+      "src": "../../../../../../node_modules/ngx-bootstrap/carousel/fesm2022/ngx-bootstrap-carousel.mjs",
+      "file": "ngx-bootstrap_carousel.js",
+      "fileHash": "c73b11a7",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-DYSIUL5J": {
+      "file": "chunk-DYSIUL5J.js"
+    },
+    "chunk-OJ7MV3AH": {
+      "file": "chunk-OJ7MV3AH.js"
+    },
+    "chunk-KNRYTDUQ": {
+      "file": "chunk-KNRYTDUQ.js"
+    }
+  }
+}

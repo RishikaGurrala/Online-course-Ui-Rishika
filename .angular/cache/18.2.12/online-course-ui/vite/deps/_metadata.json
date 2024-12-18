@@ -1,43 +1,55 @@
 {
-  "hash": "699baf31",
-  "configHash": "6ef1a137",
+  "hash": "4a411d62",
+  "configHash": "1c7c9b4b",
   "lockfileHash": "02dc94e7",
-  "browserHash": "094c06a6",
+  "browserHash": "10f8a961",
   "optimized": {
     "@angular/core": {
       "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "2fdeeca0",
+      "fileHash": "7ddca3b9",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "62f6a7f5",
+      "fileHash": "59217a53",
       "needsInterop": false
     },
     "@angular/router": {
       "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
       "file": "@angular_router.js",
-      "fileHash": "aa851c61",
+      "fileHash": "370aa524",
       "needsInterop": false
     },
     "ngx-bootstrap/carousel": {
       "src": "../../../../../../node_modules/ngx-bootstrap/carousel/fesm2022/ngx-bootstrap-carousel.mjs",
       "file": "ngx-bootstrap_carousel.js",
-      "fileHash": "c73b11a7",
+      "fileHash": "40e9ef4e",
+      "needsInterop": false
+    },
+    "@angular/common": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "621c773b",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "39f9423c",
       "needsInterop": false
     }
   },
   "chunks": {
-    "chunk-DYSIUL5J": {
-      "file": "chunk-DYSIUL5J.js"
+    "chunk-UIAHAUWA": {
+      "file": "chunk-UIAHAUWA.js"
     },
-    "chunk-OJ7MV3AH": {
-      "file": "chunk-OJ7MV3AH.js"
+    "chunk-54L2ORA5": {
+      "file": "chunk-54L2ORA5.js"
     },
-    "chunk-KNRYTDUQ": {
-      "file": "chunk-KNRYTDUQ.js"
+    "chunk-KCSUZAPK": {
+      "file": "chunk-KCSUZAPK.js"
     }
   }
 }

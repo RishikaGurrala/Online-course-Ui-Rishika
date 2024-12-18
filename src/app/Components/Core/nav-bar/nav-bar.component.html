@@ -23,16 +23,16 @@
                 <a class="nav-link active" aria-current="page" href="#">Home</a>
               </li>
           <li class="nav-item">
-            <a class="nav-link " aria-current="page" href="#">Category</a>
+            <a [routerLink]="['/course/category']" routerLinkActive="router-link-active"  class="nav-link " aria-current="page" href="#">Category</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Contact Us</a>
+            <a [routerLink]="['/contact-us']" routerLinkActive="router-link-active" class="nav-link" >Contact Us</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">About</a>
+            <a [routerLink]="['/about-us']" routerLinkActive="router-link-active" class="nav-link" href="#">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Plans & Pricing</a>
+            <a [routerLink]="['/plans-and-price']" routerLinkActive="router-link-active" class="nav-link" href="#">Plans & Pricing</a>
           </li>
         </ul>
   
